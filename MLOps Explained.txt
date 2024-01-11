@@ -1,0 +1,8 @@
+1. Data Management
+2. Version Control
+3. Automation ( Pipeline )
+4. Experiment Tracking
+5. CI/CD
+6. Monitoring
+7. Provisioning 
+8. Governance
